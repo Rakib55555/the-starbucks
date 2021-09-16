@@ -1,0 +1,26 @@
+
+.bg-rgb{
+    background-color: #f2f0eb;
+}
+.font-width{
+    font-size: 75px;
+}
+.bg-rgb-2{
+    background-color: rgb(235, 219, 200);
+}
+.dark-green{
+    color: rgb(30, 57, 50);
+}
+.bg-rgb-3{
+    background-color: rgb(30, 57, 50);
+}
+.bg-rgb-4{
+    background-color: rgb(212, 233, 226);
+}
+.width{
+    width: 50%;
+    margin-left: 325px;
+}
+.fonticon{
+    size: 50px;
+}
